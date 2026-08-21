@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 -->
 
 I'm Vincent, a Software Engineer based in Denver, Colorado.  
+
 I build whatever I can think of!  
+
 My current tech stack is C#, Python, and .NET Framework.  
+
 I absolutely love Visual Studio, but Devin Desktop is starting to become my favorite!  
 
 Fun Facts:
 - I have a dog and a cat!
 - **Hobbies:** chess, gym, reading
+
+reach me @ vincentmessina356@gmail.com or my [linkedin](https://www.linkedin.com/in/vincent-messina-139985225/)
