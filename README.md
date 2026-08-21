@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Vincent, a Software Engineer based in Denver, Colorado.
-I build whatever I can think of!
-My current tech stack is C#, Python, and .NET Framework.
-I absolutely love Visual Studio, but Devin Desktop is starting to become my favorite!
+I'm Vincent, a Software Engineer based in Denver, Colorado.  
+I build whatever I can think of!  
+My current tech stack is C#, Python, and .NET Framework.  
+I absolutely love Visual Studio, but Devin Desktop is starting to become my favorite!  
 
 Fun Facts:
 - I have a dog and a cat!
